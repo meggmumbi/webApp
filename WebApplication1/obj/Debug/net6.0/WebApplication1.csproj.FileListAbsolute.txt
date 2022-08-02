@@ -1,0 +1,6 @@
+D:\visual studio 2022 projects\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio 2022 projects\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\visual studio 2022 projects\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\visual studio 2022 projects\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\visual studio 2022 projects\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\visual studio 2022 projects\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
